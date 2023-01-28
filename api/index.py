@@ -11,7 +11,7 @@ transactions = [
     Income('Remittance', 5000),
     Income('Dividends', 200),
     Income('Dinner', 50),
-    Expense('Travel', 100)
+    Expense('Travel', 100),
 ]
 
 @app.route('/')
